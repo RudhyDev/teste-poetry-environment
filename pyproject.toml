@@ -10,6 +10,7 @@ packages = [{include = "meu_poetry_demo"}]
 python = "^3.11"
 uvicorn = "^0.22.0"
 pytest = "^7.4.0"
+flask = "^2.3.2"
 
 
 [build-system]
